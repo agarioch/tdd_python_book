@@ -3,3 +3,4 @@ gekodriver.log
 virtualenv
 __pycache__
 *.pyc
+gekodriver.log
